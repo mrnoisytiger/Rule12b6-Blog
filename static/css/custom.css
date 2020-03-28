@@ -11,7 +11,7 @@ a:hover {
     height: 60px;
 }
 
-body {
+body, .post-title {
     font-family: 'Garamond', serif;
 }
 
@@ -114,7 +114,7 @@ body {
 /* Reduce post text size */
 @media (min-width: 319px) and (max-width: 480px) {
     .post-content p, .post-content li {
-        font-size: 1rem;
+        font-size: 1.05rem;
     }
 }
 
