@@ -11,6 +11,10 @@ a:hover {
     height: 60px;
 }
 
+body {
+    font-family: 'Garamond', serif;
+}
+
 /* === FOR THE MAIN PAGE === */
 
 /* Reduce post title size on mobile and desktop */

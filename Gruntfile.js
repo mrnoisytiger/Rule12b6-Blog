@@ -80,18 +80,18 @@ module.exports = function(grunt) {
                 }],
             }
         },
-
+/*
         uncss: {
             dist: {
                 files: [{
                     expand: true,
                     cwd: 'public',
-                    src: ['***/**/*.html', '**/*.html', '*.html', '!admin/*.html'],
+                    src: ['***//*.html', '*.html', '.html', '!admin/*.html'],
                     dest: 'public/css',
                 }]
             }
         },
-
+*/
         shell: {
             dist: {
                 command: 'find public/css/ -not -name "*css" -print0 | xargs -0 rm -rf --'
@@ -117,10 +117,10 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-processhtml');
     grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
-    grunt.loadNpmTasks('grunt-uncss');
+    /* grunt.loadNpmTasks('grunt-uncss'); */
     grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-pagespeed');
 
-    grunt.registerTask('default',['cssmin','concat_css','uglify','processhtml','htmlmin','imagemin','uncss','shell','pagespeed']);
+    grunt.registerTask('default',['cssmin','concat_css','uglify','processhtml','htmlmin','imagemin','shell','pagespeed']);
     
 };
