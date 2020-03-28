@@ -19,6 +19,10 @@ body, .post-title {
     font-variant: small-caps;
 }
 
+.post-content {
+    text-indent: 24px;
+}
+
 /* === FOR THE MAIN PAGE === */
 
 /* Reduce post title size on mobile and desktop */
