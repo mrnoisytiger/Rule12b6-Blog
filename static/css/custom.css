@@ -19,7 +19,7 @@ body, .post-title {
     font-variant: small-caps;
 }
 
-.post-content p {
+.post-content > p {
     text-indent: 24px;
 }
 
