@@ -1,4 +1,4 @@
-baseURL = "https://unaudited.felixjen.com"
+baseURL = "https://www.rule12b6.com"
 languageCode = "en-us"
 title = "Unaudited"
 theme = "pixyll"
@@ -9,6 +9,6 @@ DefaultContentLanguage = "en"
 
 [params]
   paginate = 8
-  google_analytics_id = "UA-118000647-1"
+  google_analytics_id = ""
 
-copyright = "Copyright (c) 2013-2018, Felix Jen; all rights reserved."
+copyright = "Copyright (c) 2020-2020, Felix Jen; all rights reserved."
