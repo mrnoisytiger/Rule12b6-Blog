@@ -15,6 +15,10 @@ body, .post-title {
     font-family: 'Garamond', serif;
 }
 
+.small-caps {
+    font-variant: small-caps;
+}
+
 /* === FOR THE MAIN PAGE === */
 
 /* Reduce post title size on mobile and desktop */

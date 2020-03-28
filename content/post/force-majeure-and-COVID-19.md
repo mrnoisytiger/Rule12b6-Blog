@@ -19,5 +19,5 @@ With these restrictions on both labor and leisure, labor forces and supply chain
 
 
 
-[^1]: *Kasarky v. Merit Systems Protections Bd.*, 296 F.3d 1331, 1336 (Fed. Cir. 2002) (citing <span style="font-varient: small-caps">Restatement of Contracts (Second) </span> § 235(2) (1979)).
+[^1]: *Kasarky v. Merit Systems Protections Bd.*, 296 F.3d 1331, 1336 (Fed. Cir. 2002) (citing <span class="small-caps">Restatement of Contracts (Second) </span> § 235(2) (1979)).
 
