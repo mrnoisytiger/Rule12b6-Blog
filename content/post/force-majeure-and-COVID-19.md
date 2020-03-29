@@ -7,7 +7,7 @@ tags:
   - contract law
 author: 'Felix Jen, Keila Mayberry'
 require:
-  - ''
+  - 'jquery, jquery-footnote'
 toc: true
 draft: false
 type: post
