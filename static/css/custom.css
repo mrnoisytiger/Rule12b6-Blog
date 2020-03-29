@@ -34,6 +34,7 @@ body, .post-title {
 
 #footnote_box > li {
     font-size: 14px !important;
+    list-style-type:  none;
 }
 
 /* === FOR THE MAIN PAGE === */
