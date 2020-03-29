@@ -5,7 +5,7 @@ tags:
   - coronavirus
   - force majeure
   - contract law
-author: Felix Jen
+author: 'Felix Jen, Keila Mayberry'
 require:
   - ''
 toc: true
