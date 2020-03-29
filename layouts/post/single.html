@@ -18,6 +18,16 @@
   <script src="https://cdn.jsdelivr.net/npm/jstat@1.7.1/dist/jstat.min.js"></script>
   {{ end }}
 
+  <!-- Include JQuery Footnote Library -->
+  {{ if eq $library "jquery-footnote" }}
+    <script src="https://cdn.jsdelivr.net/gh/vesan/jquery-inline-footnotes/compiled/jquery-inline-footnotes-min.js"></script>
+    <script>    
+      $(function() {
+        $("[rel=footnote]").inlineFootnote();
+      });
+    </script>
+  {{ end }}
+
   <!-- Include MathJAX Library -->
   {{ if eq $library "latex" }}
     <script type="text/x-mathjax-config">

@@ -46,15 +46,6 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
   {{ end }}
 
-    <!-- Include JQuery Footnote Library -->
-  {{ if eq $library "jquery-footnote" }}
-    <script src="https://raw.githubusercontent.com/vesan/jquery-inline-footnotes/master/compiled/jquery-inline-footnotes-min.js"></script>
-    <script>    
-      $(function() {
-        $("[rel=footnote]").inlineFootnote();
-      });
-    </script>
-  {{ end }}
   {{ end }}
 </head>
 <body class="">
