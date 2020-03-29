@@ -31,6 +31,7 @@ In determining the applicability of a force majeure claim, the courts must gener
 
 ---
 Felix Jen, The University of Chicago Law School, 1L
+
 Keila Mayberry, The University of Chicago Law School, 1L
 
 
