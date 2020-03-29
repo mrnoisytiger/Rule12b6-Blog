@@ -37,3 +37,4 @@ Originally, the force majeure was used as a stand-in for common law idea of phys
 [^8]: *Mineral Park Land Co. v. Howard*, 172 Cal. 289, 293 (1916) (holding that "[a] thing is impossible in legal comtemplation where it is not practicable" but refusing to extend it to merely "showing the existence of conditions which would make the performance of their obligation more expensive").
 [^9]: Declercq, 15 J.L. & Com. 213, 213 (1995) (cited in note 7).
 
+
