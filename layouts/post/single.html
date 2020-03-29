@@ -21,6 +21,12 @@
   <!-- Include JQuery Footnote Library -->
   {{ if eq $library "jquery-footnote" }}
     <script src="https://raw.githubusercontent.com/vesan/jquery-inline-footnotes/master/compiled/jquery-inline-footnotes-min.js"></script>
+    <script>    
+      $(function() {
+        $("[rel=footnote]").inlineFootnote();
+      });
+    </script>
+
   {{ end }}
 
   <!-- Include MathJAX Library -->
