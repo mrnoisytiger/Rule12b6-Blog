@@ -29,6 +29,8 @@ Originally, the force majeure was used as a stand-in for common law idea of phys
 In determining the applicability of a force majeure claim, the courts must generally consider: (1) the inclusion of a force majeure provision within the contract and whether the event falls within scope; (2) the amount of uncertainty (foreseeability)[^12] for that event's occurence; (3) the actual impact on performance.[^13] The primary lens to examine the applicability of force majeure is through whether the event actually is the cause of the nonperformance of such a contract.[^14] If this is satisfied, we must also look at whether the event was truly unforeseeability and whether good-faith mitigatory actions could have been and were taken to prevent nonperformance.[^15] 
 
 
+*[Work in Progress]*
+
 ---
 Felix Jen, The University of Chicago Law School, 1L
 
