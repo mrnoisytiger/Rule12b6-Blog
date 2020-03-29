@@ -18,7 +18,7 @@ On December 31st, 2019, Chinese health officials warned the World Health Organiz
 
 With these restrictions on both labor and leisure, labor forces and supply chain infrastructure have been substantially disrupted, with countless businesses being unable to meet contractual provisions previously agreed upon. Many businesses have failed to meet their shipment deadlines, loan convenants have gone unmet, services have been canceled. Such "non-performance of a contractual duty" are undoubtedly considered a "breach of contract"[^2] and may be grounds for the typical forms of relief. However, in certain situations, contracts may include a *force majeure* provision, effectively excusing non-performance if circumstances arise beyond either party's control.[^3]
 
-## The Force Majeure Doctrice
+## The Force Majeure Doctrine
 
 The term "Force Majeure" is used to describe a "superior force" event.[^4] Used in the lens of contract law, "force majeure" typically excuses "a party's performance that is caused by an unforeseen, supervening event not within the control of either party."[^5] Such events include "Acts of God," changes in the governmental landscape, acts of terrorism, and similar widespread, unforeseeable events. The classes of events included in force majeure is intentionally vague,[^6] allowing “a flexible concept that permits the parties to formulate an agreement to address their unique course of dealings and industry idiosyncrasies.”[^7]
 
