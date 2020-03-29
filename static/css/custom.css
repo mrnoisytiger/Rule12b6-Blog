@@ -23,6 +23,16 @@ body, .post-title {
     text-indent: 24px;
 }
 
+/* === FOOTNOTE BOX === */
+#footnote_box {
+    background-color: white;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+    box-shadow: 2px 5px rgba(0,0,0,0.3);
+}
+
 /* === FOR THE MAIN PAGE === */
 
 /* Reduce post title size on mobile and desktop */
