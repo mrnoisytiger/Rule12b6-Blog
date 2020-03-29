@@ -32,7 +32,7 @@ In determining the applicability of a force majeure claim, the courts must gener
 ---
 Felix Jen, The University of Chicago Law School, 1L
 
-Keila Mayberry, The University of Chicago Law School, 1L
+*Edited in part* by Keila Mayberry, The University of Chicago Law School, 1L
 
 
 [^1]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
