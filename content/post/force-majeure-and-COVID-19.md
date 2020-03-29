@@ -2,7 +2,7 @@
 title: Force Majeure and COVID-19
 date: '2020-03-28'
 tags:
-  - coronavirus
+  - COVID-19
   - force majeure
   - contract law
 author: 'Felix Jen, Keila Mayberry'
