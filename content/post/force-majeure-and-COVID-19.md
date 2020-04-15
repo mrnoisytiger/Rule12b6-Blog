@@ -37,8 +37,9 @@ Felix Jen, The University of Chicago Law School, 1L
 
 _Edited in part_ by Keila Mayberry, The University of Chicago Law School, 1L
 
-[^test]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
+
 [^2]: _Kasarky v. Merit Systems Protections Bd._, 296 F.3d 1331, 1336 (Fed. Cir. 2002) (citing <span class="small-caps">Restatement of Contracts (Second) </span> § 235(2) (1979)).
+[^test]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
 [^3]: See _InterPetrol Bermuda Ltd. v. Kaiser Aluminum Int'l Corp._, 719 F.2d 992 (9th Cir. 1983).
 [^4]: Richard J. Ruszat II, _Force Majeure_, 104:5 Bus. Credit 54 (May 1, 2002).
 [^5]: Id.
