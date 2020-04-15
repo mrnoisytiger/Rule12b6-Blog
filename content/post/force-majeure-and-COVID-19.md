@@ -17,7 +17,7 @@ On December 31st, 2019, Chinese health officials warned the World Health Organiz
 
 With these restrictions on both labor and leisure, labor forces and supply chain infrastructure have been substantially disrupted, with countless businesses being unable to meet contractual provisions previously agreed upon. Many businesses have failed to meet their shipment deadlines, loan convenants have gone unmet, services have been canceled. Such "non-performance of a contractual duty" are undoubtedly considered a "breach of contract"[^2] and may be grounds for the typical forms of relief. However, in certain situations, contracts may include a _force majeure_ provision, effectively excusing non-performance if circumstances arise beyond either party's control.[^3]
 
-
+This post addresses a few topics on *force majeure* as it applies to contracts, impossibility, and frustration as options to excuse the nonperformance of contracts in response to unforeseeable events like COVID-19.
 
 ## The Force Majeure Doctrine
 
