@@ -13,7 +13,7 @@ toc: true
 draft: false
 type: post
 ---
-On December 31st, 2019, Chinese health officials warned the World Health Organization (WHO) of a cluster of 41 cases of pneumonia caused by an unknown pathogen. This pathogen has later become to be known as COVID-19, a pandemic (as declared by the WHO on March 11, 2020)[^test] affecting individuals, businesses, and governments worldwide. As of the writing of this article, there are currently over 100,000 cases of COVID-19 across the United States with countless more appearing globally on a minute-by-minute basis. In an effort to stop rampant spread of COVID-19, state and local governments in the United States have moved to both quarantine possibly-affected individuals, as well as massively reduce open businesses and travel.
+On December 31st, 2019, Chinese health officials warned the World Health Organization (WHO) of a cluster of 41 cases of pneumonia caused by an unknown pathogen. This pathogen has later become to be known as COVID-19, a pandemic (as declared by the WHO on March 11, 2020)[^1] affecting individuals, businesses, and governments worldwide. As of the writing of this article, there are currently over 100,000 cases of COVID-19 across the United States with countless more appearing globally on a minute-by-minute basis. In an effort to stop rampant spread of COVID-19, state and local governments in the United States have moved to both quarantine possibly-affected individuals, as well as massively reduce open businesses and travel.
 
 With these restrictions on both labor and leisure, labor forces and supply chain infrastructure have been substantially disrupted, with countless businesses being unable to meet contractual provisions previously agreed upon. Many businesses have failed to meet their shipment deadlines, loan convenants have gone unmet, services have been canceled. Such "non-performance of a contractual duty" are undoubtedly considered a "breach of contract"[^2] and may be grounds for the typical forms of relief. However, in certain situations, contracts may include a _force majeure_ provision, effectively excusing non-performance if circumstances arise beyond either party's control.[^3]
 
@@ -37,9 +37,8 @@ Felix Jen, The University of Chicago Law School, 1L
 
 _Edited in part_ by Keila Mayberry, The University of Chicago Law School, 1L
 
-
+[^1]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
 [^2]: _Kasarky v. Merit Systems Protections Bd._, 296 F.3d 1331, 1336 (Fed. Cir. 2002) (citing <span class="small-caps">Restatement of Contracts (Second) </span> § 235(2) (1979)).
-[^test]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
 [^3]: See _InterPetrol Bermuda Ltd. v. Kaiser Aluminum Int'l Corp._, 719 F.2d 992 (9th Cir. 1983).
 [^4]: Richard J. Ruszat II, _Force Majeure_, 104:5 Bus. Credit 54 (May 1, 2002).
 [^5]: Id.
