@@ -18,7 +18,7 @@ On December 31st, 2019, Chinese health officials warned the World Health Organiz
 
 With these restrictions on both labor and leisure, labor forces and supply chain infrastructure have been substantially disrupted, with countless businesses being unable to meet contractual provisions previously agreed upon. Many businesses have failed to meet their shipment deadlines, loan convenants have gone unmet, services have been canceled. Such "non-performance of a contractual duty" are undoubtedly considered a "breach of contract"[^2] and may be grounds for the typical forms of relief. However, in certain situations, contracts may include a *force majeure* provision, effectively excusing non-performance if circumstances arise beyond either party's control.[^3]
 
-## The Force Majeure Doctrice
+## The Force Majeure Doctrine
 
 The term "Force Majeure" is used to describe a "superior force" event.[^4] Used in the lens of contract law, "force majeure" typically excuses "a party's performance that is caused by an unforeseen, supervening event not within the control of either party."[^5] Such events include "Acts of God," changes in the governmental landscape, acts of terrorism, and similar widespread, unforeseeable events. The classes of events included in force majeure is intentionally vague,[^6] allowing “a flexible concept that permits the parties to formulate an agreement to address their unique course of dealings and industry idiosyncrasies.”[^7]
 
@@ -29,10 +29,12 @@ Originally, the force majeure was used as a stand-in for common law idea of phys
 In determining the applicability of a force majeure claim, the courts must generally consider: (1) the inclusion of a force majeure provision within the contract and whether the event falls within scope; (2) the amount of uncertainty (foreseeability)[^12] for that event's occurence; (3) the actual impact on performance.[^13] The primary lens to examine the applicability of force majeure is through whether the event actually is the cause of the nonperformance of such a contract.[^14] If this is satisfied, we must also look at whether the event was truly unforeseeability and whether good-faith mitigatory actions could have been and were taken to prevent nonperformance.[^15] 
 
 
+*[Work in Progress]*
+
 ---
 Felix Jen, The University of Chicago Law School, 1L
 
-Keila Mayberry, The University of Chicago Law School, 1L
+*Edited in part* by Keila Mayberry, The University of Chicago Law School, 1L
 
 
 [^1]: Tedros Adhanom Ghebreyesus, Director-General, World Health Org., Opening Remarks at the Media Briefing on COVID-19 (Mar. 11, 2020), https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (“We have . . . made the assessment that COVID-19 can be characterized as a pandemic.”).
